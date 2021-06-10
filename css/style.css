@@ -1050,6 +1050,8 @@ button:focus {
   }
   .intro__block {
     margin-top: 20px;
+    position: relative;
+    z-index: 2;
   }
   .intro__img {
     width: 380px;
